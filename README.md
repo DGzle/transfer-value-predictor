@@ -59,9 +59,9 @@ src/               reusable code
 - [x] Repository and environment set up
 - [x] football-data.org API tested (no market values on free tier)
 - [x] Switched market value source to the Transfermarkt dataset
-- [ ] Cleaned, merged dataset (notebook 02)
-- [ ] Baseline linear regression (R², MAE) (notebook 03)
-- [ ] Visualizations
+- [x] Cleaned, merged dataset (notebook 02)
+- [x] Baseline linear regression (R², MAE) (notebook 03)
+- [x] Visualizations
 - [ ] Checkpoint presentation (reviews/comments due Oct 21, 2026)
 
 ## Team
