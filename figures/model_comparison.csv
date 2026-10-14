@@ -1,0 +1,6 @@
+model,"R² (test, log value)",R² (5-fold CV),"MAE (test, €M)",median abs % error
+Baseline (predict the average),-0.039,-0.026,13.68,41.3
+"Linear regression, no club (v1)",0.672,0.728,9.03,31.2
+Linear regression + club (v2),0.766,0.809,7.33,31.2
+"Random forest, no club",0.682,0.699,9.03,29.8
+Random forest + club,0.775,0.792,7.04,23.5
